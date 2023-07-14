@@ -9,11 +9,11 @@ WBP (War Brokers Projects) is an attempt to bring together community projects re
 
 |                              Name                               |                  Short Description                  | Development Status |
 | :-------------------------------------------------------------: | :-------------------------------------------------: | :----------------: |
-|            [BBC](https://github.com/War-Brokers/bbc)            |            alternative Desktop WB client            |    Not started     |
+|       [wb-types](https://github.com/War-Brokers/wb-types)       |     shared Typescript types & [Zod][zod] schema     |       Alpha        |
 |          [wbapi](https://github.com/War-Brokers/wbapi)          |            DB mirror & API proxy for WB             |       Alpha        |
 |      [squad-bot](https://github.com/War-Brokers/squad-bot)      |             Discord utility bot for WB              |        Beta        |
-|       [wb-types](https://github.com/War-Brokers/wb-types)       |     shared Typescript types & [Zod][zod] schema     |       Alpha        |
 | [warbrokers-hub](https://github.com/War-Brokers/warbrokers-hub) | web UI for everything WB (squads, stats, wiki, etc) |    Not Started     |
 |     [broker-bot](https://github.com/War-Brokers/broker-bot)     |   Discord bot for the official WB discord server    |    Not Started     |
+|            [BBC](https://github.com/War-Brokers/bbc)            |            alternative Desktop WB client            |    Not started     |
 
 [zod]: https://github.com/colinhacks/zod
