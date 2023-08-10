@@ -5,10 +5,6 @@
 
 WBP (War Brokers Projects) is an attempt to bring together community projects related to War Brokers with the goal of making them more visible and making collaboration easier.
 
-<p align="center">
-  <img width="256" height="256" src="../imgs/WBP.png">
-</p>
-
 ## Projects
 
 |                                    Name                                    |                  Short Description                  | Development Status |
