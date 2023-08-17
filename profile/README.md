@@ -11,7 +11,7 @@ WBP (War Brokers Projects) is an attempt to bring together community projects re
 | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :----------------: |
 | [wbtimeline](https://github.com/War-Brokers/War-Brokers/tree/master/apps/wbtimeline) | a website that lists various events happened in the War Brokers community in a chronological order |       Stable       |
 |                [squad-bot](https://github.com/War-Brokers/squad-bot)                 |                                     Discord utility bot for WB                                     |        Beta        |
-|                 [wb-types](https://github.com/War-Brokers/wb-types)                  |                            shared Typescript types & [Zod][zod] schema                             |       Alpha        |
+|   [wb-types](https://github.com/War-Brokers/War-Brokers/tree/master/libs/wb-types)   |                            shared Typescript types & [Zod][zod] schema                             |       Alpha        |
 |      [wbapi](https://github.com/War-Brokers/War-Brokers/tree/master/apps/wbapi)      |                                    DB mirror & API proxy for WB                                    |       Alpha        |
 |                      [BBC](https://github.com/War-Brokers/bbc)                       |                                   alternative Desktop WB client                                    |     Pre-Alpha      |
 |                                    warbrokers-hub                                    |                        web UI for everything WB (squads, stats, wiki, etc)                         |    Not Started     |
