@@ -2,15 +2,75 @@
 # Project
 #
 
-- color: 009B66
+- color: 009b66
   description:
   name: project:wbtimeline
+
+#
+# Area
+#
+
+- color: 2e7b55
+  description: Animation related
+  name: area:animation
+
+- color: 2e7b55
+  description: Making things fair for the most number of people
+  name: area:balance
+
+- color: 2e7b55
+  description: Broker Bot related
+  name: area:broker-bot
+
+- color: 2e7b55
+  description: Discord server related
+  name: area:discord-server
+
+- color: 2e7b55
+  description: War Brokers HUB related
+  name: area:hub
+
+- color: 2e7b55
+  description: Localization related
+  name: area:localization
+
+- color: 2e7b55
+  description: Map related
+  name: area:map
+
+- color: 2e7b55
+  description: Performance related
+  name: area:performance
+
+- color: 2e7b55
+  description: Squad bot related
+  name: area:squad-bot
+
+- color: 2e7b55
+  description: Squad related
+  name: area:squads
+
+- color: 2e7b55
+  description: https://stats.warbrokers.io related
+  name: area:stats-site
+
+- color: 2e7b55
+  description: UI/UX related
+  name: area:UI/UX
+
+- color: 2e7b55
+  description: Weapon related
+  name: area:weapon
+
+- color: 2e7b55
+  description: YouTube related
+  name: area:youtube
 
 #
 # Tag
 #
 
-- color: 25619A
+- color: 25619a
   description: UI / UX related
   name: tag:UI / UX
 
@@ -18,9 +78,13 @@
 # Type
 #
 
-- color: 006b75
+- color: d73a4a
   description: Something isn't working as intended
   name: type:bug
+
+- color: 006b75
+  description: Problems that require attention
+  name: type:report
 
 - color: 006b75
   description: Improvements or addition
@@ -34,34 +98,78 @@
 # Priority
 #
 
-- color: 7819CC
-  description: Nothing gets worked on before this gets resolved
+- color: 7819cc
+  description: Holy crap this needs get worked on like TODAY
   name: priority:0 - critical
 
-- color: 7819CC
-  description: Very important
+- color: 7819cc
+  description: Major inconvenience
   name: priority:1 - high
 
-- color: 7819CC
-  description: Moderately important
-  name: priority:2 - medium
+- color: 7819cc
+  description: Can live without it but needs some attention
+  name: priority:2 - moderate
 
-- color: 7819CC
-  description: Maybe we'll visit it one day...
+- color: 7819cc
+  description: Maybe we'll visit this one day
   name: priority:3 - low
+
+#
+# Operating System
+#
+
+- color: d8c0a4
+  description: Android OS related
+  name: os:android
+
+- color: d8c0a4
+  description: IOS related
+  name: os:ios
+
+- color: d8c0a4
+  description: Linux-based OS related
+  name: os:linux
+
+- color: d8c0a4
+  description: Mac OS related
+  name: os:mac
+
+- color: d8c0a4
+  description: Windows OS related
+  name: os:windows
+
+#
+# Platform
+#
+
+- color: bfdadc
+  description: crazygames.com client related
+  name: platform:crazygames
+
+- color: bfdadc
+  description: poki.com client related
+  name: platform:poki
+
+- color: bfdadc
+  description: Steam client related
+  name: platform:steam
+
+- color: bfdadc
+  description: warbrokers.io web client related
+  name: platform:web
 
 #
 # Meta
 #
 
-- color: E4E669
-  description:
+- color: e4e669
+  description: This doesn't seem right
   name: meta:invalid
 
-- color: E4E669
-  description:
+- color: e4e669
+  description: Already exists
   name: meta:duplicate
 
-- color: E4E669
+- color: e4e669
   description:
   name: meta:question
