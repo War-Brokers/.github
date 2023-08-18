@@ -1,0 +1,67 @@
+#
+# Project
+#
+
+- color: 009B66
+  description:
+  name: project:wbtimeline
+
+#
+# Tag
+#
+
+- color: 25619A
+  description: UI / UX related
+  name: tag:UI / UX
+
+#
+# Type
+#
+
+- color: 006b75
+  description: Something isn't working as intended
+  name: type:bug
+
+- color: 006b75
+  description: Improvements or addition
+  name: type:suggestion
+
+- color: 006b75
+  description: Stuff to do
+  name: type:task
+
+#
+# Priority
+#
+
+- color: 7819CC
+  description: Nothing gets worked on before this gets resolved
+  name: priority:0 - critical
+
+- color: 7819CC
+  description: Very important
+  name: priority:1 - high
+
+- color: 7819CC
+  description: Moderately important
+  name: priority:2 - medium
+
+- color: 7819CC
+  description: Maybe we'll visit it one day...
+  name: priority:3 - low
+
+#
+# Meta
+#
+
+- color: E4E669
+  description:
+  name: meta:invalid
+
+- color: E4E669
+  description:
+  name: meta:duplicate
+
+- color: E4E669
+  description:
+  name: meta:question
