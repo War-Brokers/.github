@@ -51,10 +51,6 @@
   name: area:localization
 
 - color: 2e7b55
-  description: Map related
-  name: area:map
-
-- color: 2e7b55
   description: Performance related
   name: area:performance
 
