@@ -1,3 +1,5 @@
+<img align="right" width="128" height="128" src="https://raw.githubusercontent.com/War-Brokers/.github/master/imgs/WBP.avif" alt="WBP logo" />
+
 # War Brokers Projects
 
 [![](https://shields.io/badge/homepage-blue?style=for-the-badge)](https://war-brokers-projects.notion.site/0ab13d7077a843e79b99a328e00d2008)
