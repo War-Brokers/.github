@@ -4,7 +4,23 @@
 
 - color: 009b66
   description:
+  name: project:bbc
+
+- color: 009b66
+  description:
+  name: project:stats-site
+
+- color: 009b66
+  description:
+  name: project:wbapi
+
+- color: 009b66
+  description:
   name: project:wbtimeline
+
+- color: 009b66
+  description:
+  name: project:wb-types
 
 #
 # Area
